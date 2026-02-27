@@ -6,5 +6,7 @@
 <kbd>  <img src="assets\img\Screenshot 2026-02-12 165120.png" width="30%"> 
 <img src="assets\img\Screenshot 2026-02-12 165242.png" width="30%"> 
 <img src="assets\img\Screenshot 2026-02-12 165208.png" width="30%">
-<</kbd></p>
+</kbd></p>
+
+![Anime GIF] (https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBpcHp3aWlvdWljOTV4aWllYjJwMXRneHFjMmQyY3V1bWVlMjl1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0218ft4yXkI5O0pNn6/giphy.gif)
 
